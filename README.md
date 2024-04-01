@@ -8,9 +8,6 @@
 <p align = "center">
   <strong>Source Code</strong>:  <a href="#">Distri.AI-Core</a>  ·  <a href="#">Distri.AI-Client</a>  ·  <a href="#">Distri.AI-Index</a>  ·  <a href="#">Distri.AI-Interface</a>
 </p>
-<p align = "center">
-  <a href="#">Presentation </a>  · <a href="#">Demo </a>  · <a href="#">Video </a>  ·  <a href="#">Slides </a>  ·  <a href="#">Litepaper </a>
-</p>
 
 # Table of Contents
 
@@ -61,3 +58,9 @@ Finally, after achieving an ideal model, the developer can deploy it within a BS
 
 
 ## Presentation
+
+<a href="https://www.loom.com/embed/655a289100654e8380197ccd1cb63176">
+    <img src="https://github.com/distri-group/Solana-Renaissance-2024/assets/154581838/d04b515a-3c8c-4a46-a3e4-4a7c95cd559b" alt="Video Title" width="50%" />
+</a>
+
+Clik to watch 👆👆👆
