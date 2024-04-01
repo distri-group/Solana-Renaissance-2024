@@ -7,3 +7,6 @@
 [submodule "DistriAI-Interface"]
 	path = DistriAI-Interface
 	url = https://github.com/distri-group/DistriAI-Interface
+[submodule "DistriAI-Index"]
+	path = DistriAI-Index
+	url = https://github.com/distri-group/DistriAI-Index
