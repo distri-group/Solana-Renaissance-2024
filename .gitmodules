@@ -4,3 +4,6 @@
 [submodule "DistriAI-Node"]
 	path = DistriAI-Node
 	url = https://github.com/distri-group/DistriAI-Node
+[submodule "DistriAI-Interface"]
+	path = DistriAI-Interface
+	url = https://github.com/distri-group/DistriAI-Interface
