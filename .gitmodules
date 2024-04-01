@@ -1,6 +1,3 @@
-[submodule "DistriAI-Core-Solana"]
-	path = DistriAI-Core-Solana
-	url = https://github.com/distri-group/DistriAI-Core-Solana
 [submodule "DistriAI-Node"]
 	path = DistriAI-Node
 	url = https://github.com/distri-group/DistriAI-Node
