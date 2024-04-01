@@ -62,7 +62,7 @@ Live on Solana Devnet at https://distri.ai/models
     <img src="https://github.com/distri-group/Solana-Renaissance-2024/assets/154581838/4ffb9976-fc2a-48f3-ad78-95143be2a6a0" alt="Video Title" width="50%" />
 </a>
 
-Clik for the Distri.AI's Demo 👆👆👆
+Clik for the Distri.AI's demo 👆👆👆
 
 ## Presentation
 
