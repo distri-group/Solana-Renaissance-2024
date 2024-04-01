@@ -56,6 +56,7 @@ Finally, after achieving an ideal model, the developer can deploy it within a BS
 
 ## Demo with testing instructions
 
+Live on Solana Devnet at https://distri.ai/models
 
 ## Presentation
 
