@@ -7,3 +7,6 @@
 [submodule "DistriAI-Index"]
 	path = DistriAI-Index
 	url = https://github.com/distri-group/DistriAI-Index
+[submodule "DistriAI-Core"]
+	path = DistriAI-Core
+	url = https://github.com/distri-group/DistriAI-Core
