@@ -58,10 +58,16 @@ Finally, after achieving an ideal model, the developer can deploy it within a BS
 
 Live on Solana Devnet at https://distri.ai/models
 
+<a href="https://www.youtube.com/watch?v=B1xoOCia8xQ">
+    <img src="https://github.com/distri-group/Solana-Renaissance-2024/assets/154581838/4ffb9976-fc2a-48f3-ad78-95143be2a6a0" alt="Video Title" width="50%" />
+</a>
+
+Clik for the Distri.AI's Demo 👆👆👆
+
 ## Presentation
 
 <a href="https://www.loom.com/embed/655a289100654e8380197ccd1cb63176">
     <img src="https://github.com/distri-group/Solana-Renaissance-2024/assets/154581838/d04b515a-3c8c-4a46-a3e4-4a7c95cd559b" alt="Video Title" width="50%" />
 </a>
 
-Clik to watch 👆👆👆
+Clik to watch the presentation video 👆👆👆
