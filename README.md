@@ -6,7 +6,7 @@
 </p>
 
 <p align = "center">
-  <strong>Source Code</strong>:  <a href="#">Distri.AI-Core</a>  ·  <a href="#">Distri.AI-Client</a>  ·  <a href="#">Distri.AI-Index</a>  ·  <a href="#">Distri.AI-Interface</a>
+  <strong>Source Code</strong>:  <a href="https://github.com/distri-group/DistriAI-Core">Distri.AI-Core</a>  ·  <a href="https://github.com/distri-group/DistriAI-Index">Distri.AI-Index</a>  ·  <a href="https://github.com/distri-group/DistriAI-Interface">Distri.AI-Interface</a>  ·  <a href="https://github.com/distri-group/DistriAI-Node">Distri.AI-Node</a>
 </p>
 
 # Table of Contents
