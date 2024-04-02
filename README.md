@@ -71,3 +71,5 @@ Clik for the Distri.AI's demo 👆👆👆
 </a>
 
 Clik to watch the presentation video 👆👆👆
+
+Download slides: https://github.com/distri-group/Solana-Renaissance-2024/blob/main/docs/distriai-presentation%20deck.pdf
