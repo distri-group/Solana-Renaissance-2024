@@ -18,6 +18,7 @@
   - [Distri.AI's Solution](#Distri.AIs-Solution)
 - [Demo with testing instructions](#Demo-with-testing-instructions)
 - [Presentation](#Presentation)
+- [Context](#Context)
 
 # Introduction
 
@@ -73,3 +74,13 @@ Clik for the Distri.AI's demo 👆👆👆
 Clik to watch the presentation video 👆👆👆
 
 Download [slides](https://github.com/distri-group/Solana-Renaissance-2024/blob/main/docs/distriai-presentation%20deck.pdf).
+
+## Context
+
+During the hackathon, Distri.AI upgraded from v0.1.1 to v0.2.0, implementing the Model Hub from scratch (refer to the [demo](#Demo-with-testing-instructions) for a firsthand experience). The new features include:
+
+- **Model Browsing and Retrieval**: Enabling browse and search for pre-trained model resources in the Model Hub.
+- **Model Creation**: Supports users in creating models to share their work with developers.
+- **Model Card Parsing**: Enables the conversion of README files into model cards, providing quick access to essential information about the model, its applications, and usage.
+- **Rapid Development**: Facilitates direct model importation and notebook for online development.
+- **One-click Deployment**: Models can be deployed as an online demo with simple operations.
