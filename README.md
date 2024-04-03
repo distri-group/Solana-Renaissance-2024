@@ -57,15 +57,14 @@ Finally, after achieving an ideal model, the developer can deploy it within a BS
 
 ## Demo with testing instructions
 
-Live on Solana Devnet at https://distri.ai/models
+Live on Solana Devnet at https://distri.ai/models , clik for the Distri.AI's demo 👇👇👇
 
 <a href="https://www.youtube.com/watch?v=B1xoOCia8xQ">
     <img src="https://github.com/distri-group/Solana-Renaissance-2024/assets/154581838/4ffb9976-fc2a-48f3-ad78-95143be2a6a0" alt="Video Title" width="50%" />
 </a>
 
-Clik for the Distri.AI's demo 👆👆👆
 
-Test Guide:
+🔧**Test Guide**:
 
 1. Before commencing the formal testing, please refer to [the document](https://docs.distri.ai/core/getting-started/faucet) to complete the wallet configuration and obtain the tokens for test.
 2. You may now begin exploring the [Model Hub](https://distri.ai/models) and browse the uploaded models.
@@ -81,7 +80,7 @@ Test Guide:
 
 Clik to watch the presentation video 👆👆👆
 
-Download [slides](https://github.com/distri-group/Solana-Renaissance-2024/blob/main/docs/distriai-presentation%20deck.pdf).
+📕Download [slides](https://github.com/distri-group/Solana-Renaissance-2024/blob/main/docs/distriai-presentation%20deck.pdf).
 
 ## Context
 
