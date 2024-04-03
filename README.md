@@ -65,6 +65,14 @@ Live on Solana Devnet at https://distri.ai/models
 
 Clik for the Distri.AI's demo 👆👆👆
 
+Test Guide:
+
+1. Before commencing the formal testing, please refer to [the document](https://docs.distri.ai/core/getting-started/faucet) to complete the wallet configuration and obtain the tokens for test.
+2. You may now begin exploring the [Model Hub](https://distri.ai/models) and browse the uploaded models.
+3. Upon selecting a [model](https://distri.ai/models/2), you can perform the following actions:
+    1. Refer to [this tutorial]() for model deployment.
+    2. Refer to [this tutorial]() for model development.
+
 ## Presentation
 
 <a href="https://www.loom.com/embed/655a289100654e8380197ccd1cb63176">
