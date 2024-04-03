@@ -69,8 +69,8 @@ Live on Solana Devnet at https://distri.ai/models , clik for the Distri.AI's dem
 1. Before commencing the formal testing, please refer to [the document](https://docs.distri.ai/core/getting-started/faucet) to complete the wallet configuration and obtain the tokens for test.
 2. You may now begin exploring the [Model Hub](https://distri.ai/models) and browse the uploaded models.
 3. Upon selecting a [model](https://distri.ai/models/2), you can perform the following actions:
-    1. Refer to [this tutorial]() for model deployment.
-    2. Refer to [this tutorial]() for model development.
+    1. Refer to [this tutorial](https://github.com/distri-group/Solana-Renaissance-2024/blob/main/docs/tutorial%20for%20model%20deployment.md) for model deployment.
+    2. Refer to [this tutorial](https://github.com/distri-group/Solana-Renaissance-2024/blob/main/docs/tutorial%20for%20model%20development.md) for model development.
 
 ## Presentation
 
